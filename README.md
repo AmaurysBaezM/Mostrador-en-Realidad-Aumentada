@@ -3,7 +3,7 @@
 ## 📝 Descripción
 - ***Mostrador En Realidad Aumentada*** realizado como Practica Final para la materia de **Realidad Aumentada**.
 
-- Se trata de una aplicacion de Android utilizando la libreria Vuforia para poder hacer uso de la realidad Aumentad, esta se realizo utilizando tecnologías  como **C# y Unity**.
+- Se trata de una aplicacion de Android utilizando la libreria Vuforia para poder hacer uso de la realidad Aumentada, esta se realizo utilizando tecnologías  como **C# y Unity**.
 
 ## ✅ Manejo de la Apk
 - Para poder usar la aplicacion, tenemos que: 
@@ -19,3 +19,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/AmaurysBaezM/Mostrador-en-Realidad-Aumentada/main/Assets/Resources/BTVIRTUAL.png">
 </div>
+
+## 📩 Contacto
+🙋‍♂️Si tienes dudas o te interesa ponerte en contacto conmigo podés hacerlo a través de:
+**[LinkedIn ](https://www.linkedin.com/in/eduardo-amaurys-baez-monsanto/) - [Github ](https://github.com/AmaurysBaezM)**
